@@ -19,8 +19,13 @@
   "homepage": "https://github.com/gustavopals/node-server-deploy-example#readme",
   "devDependencies": {
     "@types/node": "^18.14.5",
+    "prisma": "^4.11.0",
     "tsup": "^6.6.3",
     "tsx": "^3.12.3",
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.11.0",
+    "fastify": "^4.14.0"
   }
 }
