@@ -1,0 +1,26 @@
+{
+  "name": "node-server-deploy-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavopals/node-server-deploy-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavopals/node-server-deploy-example/issues"
+  },
+  "homepage": "https://github.com/gustavopals/node-server-deploy-example#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.5",
+    "tsup": "^6.6.3",
+    "tsx": "^3.12.3",
+    "typescript": "^4.9.5"
+  }
+}
